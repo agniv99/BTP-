@@ -1,4 +1,5 @@
 %% Initialization 
+% Codes are written by: Agniv Bandyopadhyay
 close all; clear all; clc;
 S_init = 100; sig=0.3;T=1;Nsp=1000;Nt=50; 
 xmin = -1; xmax = +1;
