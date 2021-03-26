@@ -1,3 +1,4 @@
+% Codes are written by: Agniv Bandyopadhyay
 % Pls make sure xarr is of the form -L:(L/N):L
 function[theta] = exact_theta(xarr,T,sig)
 tau = sig^2*T;
