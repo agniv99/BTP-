@@ -1,3 +1,4 @@
+% Codes are written by: Agniv Bandyopadhyay
 function[price] = fdm_cn(xmin,xmax,tmin,tmax,A,alpha,Nsp,Nt)
 %% Grids and Initialization
 spgrids = linspace(xmin,xmax,Nsp+1);
