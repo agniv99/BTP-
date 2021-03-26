@@ -1,3 +1,4 @@
+% Codes are written by: Agniv Bandyopadhyay
 %% When r=alpha=0, this function gives the deflated price
 function[price] = exactprice(xarr,T,sig)
 tau = sig^2*T;
