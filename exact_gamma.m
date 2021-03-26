@@ -1,3 +1,4 @@
+% Codes are written by: Agniv Bandyopadhyay
 % Pls make sure xarr is of the form -L:(L/N):L
 function[gamma] = exact_gamma(xarr,T,sig)
 gamma = zeros(size(xarr));
