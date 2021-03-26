@@ -1,3 +1,4 @@
+% Codes are written by: Agniv Bandyopadhyay
 % Pls make sure xarr is of the form -L:(L/N):L
 function[delta] = exact_delta(xarr,T,sig)
 delta = zeros(size(xarr));
